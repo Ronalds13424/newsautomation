@@ -12,7 +12,6 @@ export async function GET({ url }) {
         const res = await fetch(apiUrl);
         const data = await res.json();
 
-        // Check for Mediastack API errors
         if (data.error) {
             return json({ error: data.error }, { status: 400 });
         }

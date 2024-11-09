@@ -1,4 +1,3 @@
-<!-- src/lib/News.svelte -->
 <script>
     export let articles = [];
 </script>

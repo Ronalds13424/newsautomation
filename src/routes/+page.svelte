@@ -1,4 +1,3 @@
-<!-- src/routes/+page.svelte -->
 <script>
     import News from '$lib/News.svelte';
     import { onMount } from 'svelte';
