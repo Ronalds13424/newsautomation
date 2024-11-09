@@ -44,3 +44,7 @@ Visit http://localhost:5173 in your browser to view the site.
 
 ## Contributions
 Contributions are welcome!
+
+## Images
+Images of the example frontend can be found in images directory
+
